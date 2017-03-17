@@ -1,0 +1,17 @@
+Feynman Writing Prompts - Homework 3
+
+Objects - very simply put, an object is a big ol hunk of properties assigned to a variable. They contain key:value pairs.
+ex: Cheeseburger could be an object.
+
+Properties - are the key:value pairs. Continuing with the Burger example. Cheese:'Cheddar' 
+
+Methods - functions inside of an object. Methods are actions that take place on an object 
+
+for in loop - How to iterate over an object
+
+Dot Notation vs. Bracket Notation - dot notation lets us explicitly call out the key name of a property. 
+If we have an object, named user with property username:'Freshrybread' can call user.username to return that
+If we don't know the name of the key name when we write the code but still want to reference it use user[key].
+
+
+Hope I can make sense of these eventually..
